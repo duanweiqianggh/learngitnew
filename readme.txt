@@ -6,3 +6,4 @@ Git tracks changes of files.
 66666666
 Creating a new branch is quick AND simple.
 77777777
+88888888 merge
